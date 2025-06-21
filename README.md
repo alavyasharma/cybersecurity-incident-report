@@ -27,7 +27,8 @@ This report analyzes a SYN flood **Denial-of-Service (DoS)** attack on a web ser
 - Describes how the attack caused connection timeouts and affected services
 - Proposes mitigations like SYN cookies, rate limiting, and firewalls
 
-➡️ [Click to view the SYN flood report](./Cybersecurity%20incident%20report%20network%20traffic%20analysis.pdf)
+[Click to view the SYN flood report](./SYN%20FLOOD%20ATTACK%20REPORT.pdf)
+
 
 ---
 
