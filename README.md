@@ -33,7 +33,6 @@ This report analyzes a SYN flood **Denial-of-Service (DoS)** attack on a web ser
 
 ## 📊 Logs and Supporting Files
 
-- `network-traffic.xlsx` (optional if added): Contains raw traffic data captured via packet sniffer  
 - More logs coming soon…
 
 ---
