@@ -45,10 +45,20 @@ This report investigates a web server compromise caused by a **brute force login
 
 ---
 
-## 📊 Logs and Supporting Files
 
-- `tcpdump traffic log.docx` – Network packet log used in Report 3  
-- `Wireshark TCP_HTTP log.xlsx` – Supporting log for the SYN flood report
+## 📄 Report 4: Security Risk Assessment – Social Media Breach
+
+Performs a **risk assessment** after a data breach that exposed customer data. Focuses on hardening the organization’s network.
+
+### 🔍 Summary
+- Identifies 4 major vulnerabilities (password sharing, default creds, lack of MFA & firewall rules)
+- Assesses threat likelihood, impact, and mitigation strategies
+- Provides actionable remediation steps
+
+➡️ [View the Security Risk Assessment PDF](./security_risk_assessment.pdf)
+
+
+## 📊 Logs and Supporting Files
 
 More logs coming soon…
 
