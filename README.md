@@ -55,7 +55,7 @@ Performs a **risk assessment** after a data breach that exposed customer data. F
 - Assesses threat likelihood, impact, and mitigation strategies
 - Provides actionable remediation steps
 
-➡️ [View the Security Risk Assessment PDF](./security_risk_assessment.pdf)
+➡️ [View the Security Risk Assessment PDF](Security Risk Assessment.pdf)
 
 
 ## 📊 Logs and Supporting Files
