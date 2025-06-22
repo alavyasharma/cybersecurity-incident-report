@@ -30,11 +30,27 @@ This report analyzes a SYN flood **Denial-of-Service (DoS)** attack on a web ser
 [Click to view the SYN flood report](./SYN%20FLOOD%20ATTACK%20REPORT.pdf)
 
 
+## 📄 Report 3: YummyRecipes Malware Incident
+
+This report investigates a web server compromise caused by a **brute force login attack**, followed by **JavaScript-based malware injection and redirection**.
+
+### 🔍 Summary
+- Attacker brute-forced login using a **default admin password**
+- Gained access to admin panel and embedded **malicious JavaScript**
+- Prompted visitors to download malware which redirected them to a fake site
+- Identifies network protocols used (HTTP, TCP/IP, DNS)
+- Recommends 2FA and brute-force prevention measures
+
+➡️ [Click to view the YummyRecipes malware report](./yummyrecipes-malware-incident-report.pdf)
+
 ---
 
 ## 📊 Logs and Supporting Files
 
-- More logs coming soon…
+- `tcpdump traffic log.docx` – Network packet log used in Report 3  
+- `Wireshark TCP_HTTP log.xlsx` – Supporting log for the SYN flood report
+
+More logs coming soon…
 
 ---
 
